@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+}
+h2.red {
+    color: rgba(200, 10, 10, 1);
+    background-color: rgba(255, 0, 0, 0.3);
+}
+h2.yellow {
+    color: rgba(200, 200, 10, 1);
+    background-color: rgba(255, 255, 0, 0.3);
+}
+h2.blue {
+    color: rgba(10, 10, 200, 1);
+    background-color: rgba(0, 0, 255, 0.3);
+}
+h2.green {
+    color: rgba(10, 200, 10, 1);
+    background-color: rgba(0, 255, 0, 0.3);
+}
+h2.grey {
+    color: rgba(200, 200, 200, 1);
+    background-color: rgba(255, 255, 255, 0.6);
+}
